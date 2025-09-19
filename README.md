@@ -1,5 +1,4 @@
 Upthrust_Assignment — Mini Workflow Automation with AI Agent:-
-
 This project is a mini workflow automation app where users can enter a prompt, and the system generates a result by combining an AI response with data from a third-party API.
 
 Supported actions:-
