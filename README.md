@@ -76,7 +76,9 @@ Run Frontend
 npm run dev
 Frontend runs on: 👉 http://localhost:5173
 
+
 🚀 Example Usage
+
 
 Request (Weather)
 
