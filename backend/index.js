@@ -7,8 +7,7 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 dotenv.config();
 const app = express();
 app.use(cors({
-  https:"//upthrust-a.onrender.com"},
-   credentials:true
+  https:"//upthrust-a.onrender.com"}
 ));
 app.use(express.json());
 
