@@ -1,7 +1,7 @@
 Upthrust_Assignment — Mini Workflow Automation with AI Agent
 This project is a mini workflow automation app where users can enter a prompt, and the system generates a result by combining an AI response with data from a third-party API.
 
-Supported actions:
+Supported actions:-
 
 🌦 Weather — via OpenWeatherMap API
 
@@ -9,7 +9,8 @@ Supported actions:
 
 📰 News — via GNews API
 
-Tech Stack
+Tech Stack:-
+
 Backend: Node.js, Express, Google Gemini API
 
 Frontend: React (Vite), TailwindCSS
@@ -24,9 +25,8 @@ GitHub API (Trending repos)
 
 GNews API (Top headlines)
 
-Setup Instructions
-Clone the Repository
-git clone https://github.com/your-username/Upthrust_Assignment.git
+Setup Instructions:-
+
 cd Upthrust_Assignment
 Backend Setup
 cd backend
