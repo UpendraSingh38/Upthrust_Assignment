@@ -8,7 +8,7 @@ dotenv.config();
 const app = express();
 app.use(cors({
   https:"//upthrust-a.onrender.com"},
-   
+   credentials:true
 ));
 app.use(express.json());
 
