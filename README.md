@@ -71,3 +71,20 @@ Run Frontend
 
 npm run dev
 Frontend runs on: 👉 http://localhost:5173
+
+🚀 Example Usage
+Request (Weather)
+
+POST /run-workflow
+{
+  "prompt": "Write a tweet about today’s weather in Delhi",
+  "action": "weather",
+  "params": { "city": "Delhi" }
+}
+Response
+
+{
+  "ai_response": "Sunny vibes, perfect for tea",
+  "api_response": "light sunny in Delhi, 37°C",
+  "final_result": "Sunny vibes, perfect for tea , light sunny in Delhi, 37°C #weather"
+}
