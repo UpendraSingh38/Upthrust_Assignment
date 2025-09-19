@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 
-const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || "https://upthrust-backend.onrender.com";
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || "http://localhost:4000";
 
 export default function App() {
   const [prompt, setPrompt] = useState("");
