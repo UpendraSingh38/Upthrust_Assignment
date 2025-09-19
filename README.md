@@ -40,27 +40,6 @@ cp .env.example .env
 
 Example .env
 
-
-PORT=4000
-
-# Gemini AI Studio
-GEMINI_API_KEY=your_google_ai_studio_api_key
-
-# Weather API (OpenWeatherMap)
-OPENWEATHER_API_KEY=your_openweathermap_api_key
-
-# GitHub Token (optional for higher rate limits)
-GITHUB_TOKEN=your_github_pat
-
-# GNews API
-GNEWS_API_KEY=your_gnews_api_key
-
-# Mock mode (use fake responses without real API calls)
-MOCK=false
-
-
-
-
 PORT=4000
 
 # Gemini AI Studio
